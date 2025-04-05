@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: pran902/go-web-app
   pullPolicy: IfNotPresent
-  tag: "14282398743"
+  tag: "14282449854"
 
 ingress:
   enabled: false
